@@ -6,17 +6,23 @@ This project is an autonomous agent designed to automate processes and provide p
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/DaveSimoes/whatsApp-Auto-Agent.git
-   cd whatsapp-autonomous-agent
-
+ ```
+    git clone https://github.com/DaveSimoes/whatsApp-Auto-Agent.git
+ ```
+ ```
+    cd whatsapp-autonomous-agent
+ ```
 2. Install the necessary dependencies:
+   
+  ```
    pip install -r requirements.txt
-
+ ```
 ## Usage
 
 To run the agent, execute the following command:
+ ```
 python src/main.py
-
+ ```
 ## Advantages of Using WhatsApp in Brazil
 
 - **Wide Adoption**: WhatsApp is the most popular messaging platform in Brazil, with millions of active users daily. This ensures that the autonomous agent can reach a large audience.
