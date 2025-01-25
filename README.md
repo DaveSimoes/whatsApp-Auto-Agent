@@ -15,7 +15,7 @@ This project is an autonomous agent designed to automate processes and provide p
 2. Install the necessary dependencies:
    
   ```
-   pip install -r requirements.txt
+     pip install -r requirements.txt
  ```
 ## Usage
 
