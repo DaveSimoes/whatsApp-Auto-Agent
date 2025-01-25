@@ -1,10 +1,7 @@
-# WhatsApp Autonomous Agent
+# Whats Up App Autonomous Agent
 
 This project is an autonomous agent designed to automate processes and provide personalized insights through the WhatsApp platform using AI. The agent connects to the WhatsApp API, listens to incoming messages, and triggers automation tasks based on user interactions.
 
-## Project Structure
-
-whatsapp-autonomous-agent ├── src │ ├── main.py # Application entry point │ ├── connectors │ │ └── whatsapp_connector.py # Manages connections to the WhatsApp API │ ├── services │ │ └── automation_service.py # Manages automation processes │ ├── insights │ │ └── insights_generator.py # Generates personalized insights │ └── utils │ └── helper_functions.py # Utility functions for the project ├── requirements.txt # Project dependencies ├── setup.py # Packaging configuration └── README.md # Project documentation
 
 ## Installation
 
